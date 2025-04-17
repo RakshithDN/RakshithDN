@@ -1,6 +1,8 @@
 # Hi there, I'm Rakshith D N 👋
 <br>🎓 Final Year Information Science Student at NMIT, Bengaluru<br>💻 Passionate about Data Structures, Web Development, and AI<br>🎯 Currently solving DSA problems, building web projects & an AI-based disease detection system<br>📚 Learning from Striver’s DSA Sheet, and Colt Steele’s Web Dev Bootcamp
 
+---
+
 ## 📈 My DSA Progress
 
 - 🔸 LeetCode: 60+ problems solved [→ View Profile](https://leetcode.com/u/rakshithdn/)
