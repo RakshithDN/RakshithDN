@@ -2,6 +2,7 @@
 <br>🎓 Final Year Information Science Student at NMIT, Bengaluru<br>💻 Passionate about Data Structures, Web Development, and AI<br>🎯 Currently solving DSA problems, building web projects & an AI-based disease detection system<br>📚 Learning from Striver’s DSA Sheet, and Colt Steele’s Web Dev Bootcamp
 
 ---
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 ## 📈 My DSA Progress
 
