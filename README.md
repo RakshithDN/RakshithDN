@@ -5,7 +5,7 @@
 
 ## 📈 My DSA Progress
 
-- 🔸 LeetCode: 60+ problems solved [→ View Profile](https://leetcode.com/u/rakshithdn/)
+- 🔸 LeetCode: Actively solving
 - 🔸 GFG: Actively practicing
 - 🔸 Repos:
   - [DSA-Problem-Solving](https://github.com/RakshithDN/DSA-Practice)
@@ -25,7 +25,6 @@
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rakshithdn/)
 - ✉️ Email: rakshithdn04@gmail.com
 
 ---
