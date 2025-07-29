@@ -18,11 +18,11 @@
 
 ## 💼 Projects
 
-| Project             | Description                                                                | Tech Used                                 |
-|---------------------|----------------------------------------------------------------------------|--------------------------------------------|
-| **AI Resume Ranker** | Ranks resumes based on job description using NLP & SBERT                  | Flask, Python, Sentence-BERT, HTML/CSS     |
-| Complaint Management | Role-based system with status tracking (Open, In Progress, Resolved)      | React, Flask, MongoDB                      |
-| Crypto Dashboard     | Tracks live crypto prices with charts and sparkline graphs                | React, Chart.js, CoinGecko API, Tailwind   |
+| Project               | Description                                                                                 | Tech Used                                        |
+|------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Crypto Dashboard**   | Real-time dashboard tracking 10,000+ crypto assets with dynamic charts and live search     | React, TailwindCSS, CoinGecko API, Chart.js     |
+| **AI Resume Ranker**   | Ranks resumes using Sentence-BERT embeddings and cosine similarity scoring                 | Flask, Python, Sentence-BERT, PyPDF2, Bootstrap |
+| Complaint Management   | Role-based portal with status tracking: Open, In Progress, Resolved                        | React, Flask, MongoDB                           |
 
 ---
 
