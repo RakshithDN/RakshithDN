@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Rakshith D N
 
 🎓 Final Year Information Science Student at NMIT, Bengaluru  
-💻 Passionate about Data Structures, Web Development, and AI  
-🚀 Currently solving DSA problems, building full-stack projects & working on AI-based resume ranking and disease detection systems  
-📚 Learning from **Striver’s DSA Sheet**, and **Colt Steele’s Web Dev Bootcamp**
+💻 Interested in Machine Learning, Data Analytics, and Web Development  
+🚀 Currently solving DSA problems, building full-stack projects, and working on AI-powered applications like resume ranking and disease prediction systems  
+📚 Always exploring new technologies and improving problem-solving skills
 
 ---
 
@@ -18,11 +18,11 @@
 
 ## 💼 Projects
 
-| Project               | Description                                                                                 | Tech Used                                        |
-|------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------|
-| **Crypto Dashboard**   | Real-time dashboard tracking 10,000+ crypto assets with dynamic charts and live search     | React, TailwindCSS, CoinGecko API, Chart.js     |
-| **AI Resume Ranker**   | Ranks resumes using Sentence-BERT embeddings and cosine similarity scoring                 | Flask, Python, Sentence-BERT, PyPDF2, Bootstrap |
-| Complaint Management   | Role-based portal with status tracking: Open, In Progress, Resolved                        | React, Flask, MongoDB                           |
+| Project | Description | Tech Used |
+|----------|--------------|-----------|
+| **Crypto Dashboard** | Real-time dashboard tracking 10,000+ crypto assets with dynamic charts and live search | React, TailwindCSS, CoinGecko API, Chart.js |
+| **AI Resume Ranker** | Ranks resumes using Sentence-BERT embeddings and cosine similarity scoring | Flask, Python, Sentence-BERT, PyPDF2, Bootstrap |
+| **Multi-Disease Prediction System** | Predicts diseases from user symptoms using ensemble ML models and SBERT embeddings | Flask, Python, scikit-learn, TensorFlow, SBERT |
 
 ---
 
@@ -47,8 +47,8 @@
 
 ## 📫 Let's Connect!
 
-- 📧 Email: **rakshithdn04@gmail.com**
-
+- 📧 Email: **rakshithdn04@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/rakshithdn](https://linkedin.com/in/rakshithdn)  
 ---
 
 ## 📊 Contribution Snake
